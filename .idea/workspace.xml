@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5775a08-f41a-4ea0-8b91-3e46d30c84cb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/author.jpg" afterPath="$PROJECT_DIR$/assets/img/author.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/banner.jpg" afterPath="$PROJECT_DIR$/assets/img/banner.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/logo.png" afterPath="$PROJECT_DIR$/assets/img/logo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,8 +26,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3051">
-              <caret line="113" column="26" lean-forward="true" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="26" />
+            <state relative-caret-position="154">
+              <caret line="71" column="15" lean-forward="false" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -106,12 +108,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484570932833</updated>
-      <workItem from="1484570934218" duration="197000" />
+      <workItem from="1484570934218" duration="1378000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197000" />
+    <option name="totallyTimeSpent" value="1378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -148,8 +150,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3051">
-          <caret line="113" column="26" lean-forward="true" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="26" />
+        <state relative-caret-position="154">
+          <caret line="71" column="15" lean-forward="false" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="15" />
           <folding />
         </state>
       </provider>
